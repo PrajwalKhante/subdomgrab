@@ -1,4 +1,4 @@
-# subdomgrab v1.1
+# Subdomgrab v1.1
 
 A simple **Bash-based subdomain enumeration script** that combines results from multiple tools into one **sorted, duplicate-free list** for easy analysis.
 
